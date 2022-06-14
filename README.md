@@ -29,7 +29,7 @@ HTML5 | CSS3 | Typescript | ReactJS | React Native | Redux | Redux Toolkit | Red
  ***Togheter with my team, i worked to the improvement of an architecture based on React Native, analyzing and optimizing the application performances*** <br />
  
   `Almvaviva (Giotto)`  |  **React JS Developer** <br />
- ***I contributed to design and develop a platform for internal use based on React JS and React Redux from scratch ***<br />
+ ***I contributed to design and develop a platform for internal use based on React JS and React Redux from scratch*** <br />
  
   `Exentriq` | **React Native Developer**<br />
  ***I Developed a management mobile application with chat integration based on React Native and React Redux from scratch, under the guidance of a team lead.*** <br />
