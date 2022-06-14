@@ -1,6 +1,10 @@
 # About me:
-I'm a Javascript React JS/Native Developer with 3 years of experience (+8 project).
-Inspired by a strong IT interest, i made my vocation a job. I decided to join bitRocket.dev because i believe in the project and it will give an important boost to my career. I am proactive and flexible, i know how to work independently and i manage to take responsibility as the leader of the group.
+I'm a Javascript React JS/Native Developer with 3 years of experience (+8 project). Inspired by a strong IT interest since I was a child, i made my vocation a job. 
+My experience as a freelance developer has allowed me to experience software development in all its facets and to love it in all its aspects.
+I define myself as a lover of good code, I take care in everything I develop, paying particular attention to using all the best practices during the development process. 
+I like to follow structured workflow based on scrum methodology and manage gitflow following the guidelines of the git conventional commit.
+
+My favorite tech stack is HTML5 | CSS3 | Typescript | ReactJS | React Native | Redux | Redux Toolkit | Redux-saga | Styled-components | Git | Storybook | Cypress  
 
 ---
 
