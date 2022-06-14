@@ -5,7 +5,7 @@ I define myself as a lover of good code, I take care in everything I develop, pa
 I like to follow structured workflow based on scrum methodology and manage gitflow following the guidelines of the git conventional commit.
 
 Keeping myself open to learn new technology stack, my favorite stack of development is the following one: <br />
-***HTML5 | CSS3 | Typescript | ReactJS | React Native | Redux | Redux Toolkit | Redux-saga | Styled-components | Git | Storybook | Cypress***  
+***HTML5 | CSS3 | Typescript | ReactJS | React Native | Redux | Redux Toolkit | Redux-saga | Styled-components | Git | Storybook | Cypress | Jest***  
 
 ---
 
