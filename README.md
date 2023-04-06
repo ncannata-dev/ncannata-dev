@@ -3,7 +3,7 @@
 ![Screenshot](banner.png)
 
 # About me:
-As a professional JavaScript React JS/Native Developer with three years of experience and over eight projects under my belt, I have been fortunate to find a career that aligns with my lifelong passion for IT. <br>
+As a professional JavaScript React JS/Native Developer with four years of experience and over ten projects under my belt, I have been fortunate to find a career that aligns with my lifelong passion for IT. <br>
 
 My experience as a freelance developer has given me the opportunity to explore all aspects of software development, and my enthusiasm for the field has only grown stronger with each project I undertake. I have a deep appreciation for the power of good code and am dedicated to creating software that is not only functional but also elegant and maintainable. <br>
 
